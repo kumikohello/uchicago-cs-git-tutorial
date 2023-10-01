@@ -1,2 +1,3 @@
 Kumiko Ueda kumiko
-Git is pretty cool.
+Git is pretty cool
+Hopefully our last change...
